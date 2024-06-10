@@ -60,7 +60,7 @@ Ensure you have the following installed:
 - [Node.js](https://nodejs.org/) (version 12 or higher)
 - [npm](https://www.npmjs.com/) (Node package manager)
 - [Git](https://git-scm.com/)
-- 
+
 ### Steps
 - Clone this repository.
 - Run `npm install` to install dependencies.
