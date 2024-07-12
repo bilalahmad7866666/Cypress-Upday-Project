@@ -1,5 +1,6 @@
 # Cypress-Upday-Project
 
+## Description
 This project contains end-to-end tests for the [Upday website](https://www.upday.com) using Cypress.
 
 ## Test Cases
